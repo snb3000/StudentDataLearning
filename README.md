@@ -6,6 +6,7 @@
 ### Course Information
 - Class Dates: **Tuesdays and Thursdays from 7-10pm**
 - Course Duration: **(May 2nd - July 13th, 2017)**
+- Holiday(s): July 4th
 - Course materials for [General Assembly's Data Science
 course](https://generalassemb.ly/education/data-science?where=los-angeles)
 
