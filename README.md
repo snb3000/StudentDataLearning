@@ -34,7 +34,7 @@ course](https://generalassemb.ly/education/data-science?where=los-angeles)
 | Lesson 2 | [Research Design & Pandas](./lesson-02/README.md) || Lesson 12 | [Decision Trees / Random Forest](./lesson-12/README.md)|
 | Lesson 3| [Statistics Fundamentals pt. 1](./lesson-03/README.md) || Lesson 13 | [NLP with Classification](./lesson-13/README.md) |
 | Lesson 4 | [Statistics Fundamentals pt. 2](./lesson-04/README.md) || Lesson 14 | [Dimensionality Reduction](./lesson-14/README.md) |
-| Lesson 5 | [Tool Review](./lesson-05/README.md) || Lesson 15 | [Time Series Data](./lesson-15/README.md )L a|
+| Lesson 5 | [Tool Review](./lesson-05/README.md) || Lesson 15 | [Time Series Data](./lesson-15/README.md )|
 | Lesson 6 | [Intro to Linear Regression](./lesson-06/README.md) || Lesson 16 | [Modeling Time Series Data](./lesson-16/README.md) |
 | Lesson 7 | [Evaluating Model Fit](./lesson-07/README.md) || Lesson 17 | [Data Science Databases](./lesson-17/README.md) |
 | Lesson 8 | [Intro to Classification](./lesson-08/README.md)|| Lesson 18 | [Data Science Careers](./lesson-18/README.md) |
