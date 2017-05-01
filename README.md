@@ -30,7 +30,7 @@ course](https://generalassemb.ly/education/data-science?where=los-angeles)
 
 | Class | Title |  | Class | Title |
 | --- | :---: | --- |  --- | :---: |
-| Lesson 1 | [What is Data Science](./lesson-01/README.md) || Lesson 11 | *Flex Session (suggestion: [Clustering](./lesson-11-flex/)) |
+| Lesson 1 | [What is Data Science](./lesson-01/README.md) || Lesson 11 | [Clustering](./lesson-11-flex/) |
 | Lesson 2 | [Research Design & Pandas](./lesson-02/README.md) || Lesson 12 | [Decision Trees / Random Forest](./lesson-12/README.md)|
 | Lesson 3| [Statistics Fundamentals pt. 1](./lesson-03/README.md) || Lesson 13 | [NLP with Classification](./lesson-13/README.md) |
 | Lesson 4 | [Statistics Fundamentals pt. 2](./lesson-04/README.md) || Lesson 14 | [Dimensionality Reduction](./lesson-14/README.md) |
@@ -38,7 +38,7 @@ course](https://generalassemb.ly/education/data-science?where=los-angeles)
 | Lesson 6 | [Intro to Linear Regression](./lesson-06/README.md) || Lesson 16 | [Modeling Time Series Data](./lesson-16/README.md) |
 | Lesson 7 | [Evaluating Model Fit](./lesson-07/README.md) || Lesson 17 | [Data Science Databases](./lesson-17/README.md) |
 | Lesson 8 | [Intro to Classification](./lesson-08/README.md)|| Lesson 18 | [Data Science Careers](./lesson-18/README.md) |
-| Lesson 9 | [Intro to Logistic Regression](./lesson-09/README.md) || Lesson 19 | [Neural Networks](./lesson-19-flex/)) |
+| Lesson 9 | [Intro to Logistic Regression](./lesson-09/README.md) || Lesson 19 | [Neural Networks](./lesson-19-flex/) |
 | Lesson 10 | [Communicating Model Results](./lesson-10/README.md) ||Lesson 20 | Final Project Demo Day | 
  
 ### Project Overview
@@ -48,48 +48,6 @@ The final project should represent significant original work applying data scien
 Address a data-related problem in your professional field or a field you're passionate about. If you have a strong interest in the subject matter, you'll create a better project and it will be a lot more fun for you!
 
 Here's a collection of [past projects](https://gallery.generalassemb.ly/DS?metro=) from GA Data Science students that may help to stimulate your thinking. You're welcome to use [Github public datasets](https://github.com/caesar0301/awesome-public-datasets), [Kaggle Datasets](https://www.kaggle.com/datasets) or private data, though with private data, you'll have to be careful about what you release. Competing in a [Kaggle competition](http://www.kaggle.com/) (including past competitions) is also a project option, in which case the data will be provided for you.
-
-
-### Installation and Setup
-* Install the latest [Anaconda distribution](http://continuum.io/downloads) -- **Python 2.7**.
-* Install [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and create a [GitHub](https://github.com/) account.
-* Install a text editor and IDE ([PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/)).
-* Once you receive an email invitation from [Slack](https://slack.com/), join our "ds-sm-15 team" and add your photo!
- 
- 
-### Class 1: Introduction
-* Introduction to General Assembly
-* Course overview: our philosophy and expectations
-* Intro to Data science
-* Define a problem and types of data
-* Identify data set types
-* Define the data science workflow
-* Apply the data science workflow in the pandas context
- 
-**Post-class:**
-
-* Resolve any installation issues before next class.
-* [Quick reference to Python in a single script](http://www.dataschool.io/python-quick-reference/)
-
-* Some additional Python resources
-	* [Dataquest.io](https://www.dataquest.io/)
-	* [Codecademy's Python course](http://www.codecademy.com/en/tracks/python)
-   * [Google's Python Class](https://developers.google.com/edu/python/)
-
-### Class 2: Intro to Problem Solving with Python
-
-  * Learn how to problem solve using Python
-
-AGENDA:
-
-	Futurama Case Study
-	Intro to Python Data Types 
-	Break
-	Intro to Python Conditionals 
-	Intro to Python Iteration
-	Intro to Python Lists & Dictionaries (independent study)
-	Break
-	Intro to Pandas
 
 
 ## Development Environment
@@ -103,7 +61,7 @@ conda create -n py27_ds_sm_15 python=2.7 anaconda conda install scikit-learn
 conda install pandas
 conda install seaborn
 ```
-1. Run `source activate py27_ds_sm_15 `. This will activate an isolated environment for your Python 2.7 work. Different environment allow you to work with different versions of packages for Python 2 or Python 3. 
+1. Run `source activate py27_ds_sm_15 `. This will activate an isolated environment for your Python 2.7 work. Different environments allow you to work with different versions of packages for Python 2 or Python 3. 
 2. Run `jupyter notebook`
 3. Kill Jupyter after you’re done by doing a `Ctrl-C` on the same window terminal you ran `jupyter notebook` from.
 4. `source deactivate`
