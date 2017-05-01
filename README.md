@@ -34,7 +34,7 @@ course](https://generalassemb.ly/education/data-science?where=los-angeles)
 | Lesson 2 | [Research Design & Pandas](./lesson-02/README.md) || Lesson 12 | [Decision Trees / Random Forest](./lesson-12/README.md)|
 | Lesson 3| [Statistics Fundamentals pt. 1](./lesson-03/README.md) || Lesson 13 | [NLP with Classification](./lesson-13/README.md) |
 | Lesson 4 | [Statistics Fundamentals pt. 2](./lesson-04/README.md) || Lesson 14 | [Dimensionality Reduction](./lesson-14/README.md) |
-|	| [Tool Review](./lesson-05/README.md) || Lesson 15 | [Time Series Data](./lesson-15/README.md) |
+| Lesson 5 | [Tool Review](./lesson-05/README.md) || Lesson 15 | [Time Series Data](./lesson-15/README.md )L a|
 | Lesson 6 | [Intro to Linear Regression](./lesson-06/README.md) || Lesson 16 | [Modeling Time Series Data](./lesson-16/README.md) |
 | Lesson 7 | [Evaluating Model Fit](./lesson-07/README.md) || Lesson 17 | [Data Science Databases](./lesson-17/README.md) |
 | Lesson 8 | [Intro to Classification](./lesson-08/README.md)|| Lesson 18 | [Data Science Careers](./lesson-18/README.md) |
@@ -49,14 +49,13 @@ Address a data-related problem in your professional field or a field you're pass
 
 Here's a collection of [past projects](https://gallery.generalassemb.ly/DS?metro=) from GA Data Science students that may help to stimulate your thinking. You're welcome to use [Github public datasets](https://github.com/caesar0301/awesome-public-datasets), [Kaggle Datasets](https://www.kaggle.com/datasets) or private data, though with private data, you'll have to be careful about what you release. Competing in a [Kaggle competition](http://www.kaggle.com/) (including past competitions) is also a project option, in which case the data will be provided for you.
 
-#### Project Milestones
-
 
 ### Installation and Setup
 * Install the latest [Anaconda distribution](http://continuum.io/downloads) -- **Python 2.7**.
 * Install [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and create a [GitHub](https://github.com/) account.
 * Install a text editor and IDE ([PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/)).
 * Once you receive an email invitation from [Slack](https://slack.com/), join our "ds-sm-15 team" and add your photo!
+ 
  
 ### Class 1: Introduction
 * Introduction to General Assembly
