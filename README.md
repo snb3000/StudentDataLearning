@@ -19,6 +19,7 @@ Naumaan Nayyar.
 - Also available via Slack (#ds-sm-15) or Google Hangouts (by appointment)
 
 **Lesson Structure:**
+
 | Class | Title |  | Class | Title |
 | --- | :---: | --- |  --- | :---: |
 | Lesson 1 | [What is Data Science](./lesson-01/) || Lesson 11 | [Clustering](./lesson-11-flex/) |
