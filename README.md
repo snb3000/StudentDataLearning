@@ -11,38 +11,30 @@
 course](https://generalassemb.ly/education/data-science?where=los-angeles)
 
 
-**Instructor:** Naumaan Nayyar.
+**Instructor:**
+Naumaan Nayyar.
 
-**Upcoming Office hours:**
+**Office hours:**
+- Tuesday and Thursday, 6-7pm in the lounge downstairs (before class)
+- Also available via Slack (#ds-sm-15) or Google Hangouts (by appointment)
 
-+ **TBD
-+ Also available via Slack (ds-sm-15) or Google Hangouts (by appointment)
-
-**Project Info:**
-
-(Will be added soon)
-
-**Homeworks:** 
-
-
-**Resources:**
-+ ISL: Chapters from "An Introduction to Statistical Learning" | [Free PDF Download](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
-
-
+**Lesson Structure:**
 | Class | Title |  | Class | Title |
 | --- | :---: | --- |  --- | :---: |
-| Lesson 1 | [What is Data Science](./lesson-01/README.md) || Lesson 11 | [Clustering](./lesson-11-flex/) |
-| Lesson 2 | [Research Design & Pandas](./lesson-02/README.md) || Lesson 12 | [Decision Trees / Random Forest](./lesson-12/README.md)|
-| Lesson 3| [Statistics Fundamentals pt. 1](./lesson-03/README.md) || Lesson 13 | [NLP with Classification](./lesson-13/README.md) |
-| Lesson 4 | [Statistics Fundamentals pt. 2](./lesson-04/README.md) || Lesson 14 | [Dimensionality Reduction](./lesson-14/README.md) |
-| Lesson 5 | [Tool Review](./lesson-05/README.md) || Lesson 15 | [Time Series Data](./lesson-15/README.md )|
-| Lesson 6 | [Intro to Linear Regression](./lesson-06/README.md) || Lesson 16 | [Modeling Time Series Data](./lesson-16/README.md) |
-| Lesson 7 | [Evaluating Model Fit](./lesson-07/README.md) || Lesson 17 | [Data Science Databases](./lesson-17/README.md) |
-| Lesson 8 | [Intro to Classification](./lesson-08/README.md)|| Lesson 18 | [Data Science Careers](./lesson-18/README.md) |
-| Lesson 9 | [Intro to Logistic Regression](./lesson-09/README.md) || Lesson 19 | [Neural Networks](./lesson-19-flex/) |
-| Lesson 10 | [Communicating Model Results](./lesson-10/README.md) ||Lesson 20 | Final Project Demo Day | 
+| Lesson 1 | [What is Data Science](./lesson-01/) || Lesson 11 | [Clustering](./lesson-11-flex/) |
+| Lesson 2 | [Research Design & Pandas](./lesson-02/) || Lesson 12 | [Decision Trees / Random Forest](./lesson-12/)|
+| Lesson 3| [Statistics Fundamentals pt. 1](./lesson-03/) || Lesson 13 | [NLP with Classification](./lesson-13/) |
+| Lesson 4 | [Statistics Fundamentals pt. 2](./lesson-04/) || Lesson 14 | [Dimensionality Reduction](./lesson-14/) |
+| Lesson 5 | [Tool Review](./lesson-05/) || Lesson 15 | [Time Series Data](./lesson-15/)|
+| Lesson 6 | [Intro to Linear Regression](./lesson-06/) || Lesson 16 | [Modeling Time Series Data](./lesson-16/) |
+| Lesson 7 | [Evaluating Model Fit](./lesson-07/) || Lesson 17 | [Data Science Databases](./lesson-17/.md) |
+| Lesson 8 | [Intro to Classification](./lesson-08/)|| Lesson 18 | [Data Science Careers](./lesson-18/) |
+| Lesson 9 | [Intro to Logistic Regression](./lesson-09/) || Lesson 19 | [Neural Networks](./lesson-19-flex/) |
+| Lesson 10 | [Communicating Model Results](./lesson-10/) ||Lesson 20 | Final Project Demo Day | 
  
 ### Project Overview
+
+You will be doing four unit projects and one final project in this class. Have a look at the project timeline in [the projects folder][./projects/]. Information about the projects will be announced in class and upploaded to the folder.
 
 The final project should represent significant original work applying data science techniques to an interesting problem. Final projects are individual attainments, but you should be talking frequently with your instructor and classmates about them.
 
@@ -57,16 +49,9 @@ Start with your Windows or Mac Terminal app:
 
 Type the following into your terminal...
 
-```
-conda create -n py27_ds_sm_15 python=2.7 anaconda conda install scikit-learn
-conda install pandas
-conda install seaborn
-```
-1. Run `source activate py27_ds_sm_15 `. This will activate an isolated environment for your Python 2.7 work. Different environments allow you to work with different versions of packages for Python 2 or Python 3. 
-2. Run `jupyter notebook`
-3. Kill Jupyter after you’re done by doing a `Ctrl-C` on the same window terminal you ran `jupyter notebook` from.
-4. `source deactivate`
-
+1. Navigate to the folder in which you have your python notebook (using `cd`).
+2. Run `jupyter notebook 'filename.ipynb'` (Alternatively, you can run `jupyter notebook` and browse for the file using the web interface)
+3. Kill Jupyter after you’re done by doing a `Ctrl-C` on the same window terminal you ran `jupyter notebook` from. Then type 'y' and press Enter.
 
 ### GA Part-Time Graduation Requirements:  									
 General Assembly's Part-time courses are pass/fail programs. We have certain requirements in order to be considered a graduate of our programs which are outlined in our [GA Catalog](https://ga-core.s3.amazonaws.com/cms/files/files/000/004/189/original/GA_Catalog-All-Markets-2016.07.05_bvm.pdf)
@@ -89,7 +74,7 @@ All assignments must be submitted by the final day of the course in order to rec
 
 ### Part-Time Parking Options:
 - Address: Santa Monica Campus: 1520 2nd St, Santa Monica, CA 90401
-- Most students park in structure #8 across the street for around $3.00/night
+- Most students park in structure #8 across the street for around $6.00/night
 - [Santa Monica Bike Center](http://smbikecenter.com/membership/commuter-membership/): $15/month to park your bike accross the street
 - Metro stop: Downtown Santa Monica ([Metro Blue Line](https://www.metro.net/riding/maps/expo-line/)) 
 
