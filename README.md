@@ -35,7 +35,7 @@ Naumaan Nayyar.
  
 ### Project Overview
 
-You will be doing four unit projects and one final project in this class. Have a look at the project timeline in [the projects folder][./projects/]. Information about the projects will be announced in class and upploaded to the folder.
+You will be doing four unit projects and one final project in this class. Have a look at the project timeline in [the projects folder](./projects/). Information about the projects will be announced in class and upploaded to the folder.
 
 The final project should represent significant original work applying data science techniques to an interesting problem. Final projects are individual attainments, but you should be talking frequently with your instructor and classmates about them.
 
