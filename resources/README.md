@@ -11,9 +11,9 @@ Here are some resources that will prove useful as you go through the course!
 - [Python Self-Assessment Quiz](./python-self-assessment.md)
 
 - ISL: Chapters from "An Introduction to Statistical Learning" | [Free PDF Download](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
-- [Learn Python the Hard Way][https://learnpythonthehardway.org/book/]
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 
 ## Of Data Science Relvance
 - [Data Science Workflow](./data-science-workflow-final.pdf)
 - [Data Science Vocabulary Guide](./ds-vocab.md)
-- [Learn Pandas][https://bitbucket.org/hrojas/learn-pandas]
+- [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
