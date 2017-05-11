@@ -1,8 +1,6 @@
 
 ## GA Data Science 15 Course Repository
 
-test lines added to demonstrate git usage.
-
 # Welcome to General Assembly - Los Angeles!
 
 ### Course Information
