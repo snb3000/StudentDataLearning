@@ -3,8 +3,6 @@
 
 test lines added to demonstrate git usage.
 
-second set of test lines added here.
-
 # Welcome to General Assembly - Los Angeles!
 
 ### Course Information
