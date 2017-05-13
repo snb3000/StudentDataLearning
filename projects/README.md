@@ -22,4 +22,12 @@ This framework will provide you with a guide for exploratory data analysis and h
 
 - **Goal**: Create a problem statement, analysis plan, and data dictionary in iPython.
 - [Detailed Spec File](./project-1/README.md)
-- Due date: Thursday, May 11th, 2017
+- Due date: Tuesday, May 16th, 2017
+
+#### Project 2
+
+Building upon the framework you created in Project 1, now you'll need to explore your dataset using descriptive statistics and basic visualizations, in order to identify biases, limitations, or variables in your model. This will lay the groundwork for your modeling approach in Project 3.
+
+- **Goal**: Explore data with visualizations and statistical analysis in an iPython notebook.
+- [Detailed Spec File](./project-1/README.md)
+- Due date: Tuesday, May 16th, 2017
