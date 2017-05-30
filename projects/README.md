@@ -31,3 +31,21 @@ Building upon the framework you created in Project 1, now you'll need to explore
 - **Goal**: Explore data with visualizations and statistical analysis in an iPython notebook.
 - [Detailed Spec File](./project-1/README.md)
 - Due date: Tuesday, May 16th, 2017
+
+#### Project 3
+
+Students will put into practice the framework and exploratory analysis created in Projects 1 and 2 by completing a logistic regression model on the UCLA admissions dataset. You'll have to create dummy variables and calculate the OR by hand. After plotting the data, your iPython notebook writeup should also include calculations of the predicted probabilities and an interpretation of your findings.
+
+- **Goal**: Perform logistic regression on UCLA dataset, creating dummy variables and calculating probabilities.
+- [Detailed Spec File](./project-3/README.md)
+- Due date: Tuesday, June 6th, 2017
+
+#### Project 4
+
+Students will polish their iPython notebook by combining prior project deliverables into a final, polished iPython notebook that begins with an executive summary, states goals and success criteria, outlines methods and aims, describes risks and assumptions, explains modeling approach using visualizations, and concludes with findings and next steps.
+
+This project will familiarize students with the role of audience analysis and model defense in real world data science presentations.
+
+- **Goal**: Present your findings in an iPython notebook with executive summary, visuals, and recommendations.
+- [Detailed Spec File](./project-4/README.md)
+- Due date: Thursday, June 8th, 2017
