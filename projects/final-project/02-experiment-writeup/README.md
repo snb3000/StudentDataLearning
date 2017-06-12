@@ -29,7 +29,7 @@ Remember, completing this task earlier will give you more chances to iterate and
 
 - **Submission:**	 
   - To be uploaded via your student Github repository.
-  - **Due Date:** TBD
+  - **Due Date:** June 17th, 2017.
 
 ---
 
