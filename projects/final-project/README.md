@@ -20,7 +20,7 @@ Project outlines are a valuable resource when working through data projects. For
 
 - **Goal**: Create an outline of your research design approach, including hypothesis, assumptions, goals, and success metrics.
 - **[Detailed Spec File](./02-experiment-writeup/README.md)**
-- **Due Date:** TBD
+- **Due Date:** June 15th, 2017.
 
 
 ### **Final Project, pt. 3**
